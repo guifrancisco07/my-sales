@@ -1,0 +1,21 @@
+/*formatacao background's*/
+.fundo{
+    background: linear-gradient(to bottom, rgb(128, 0, 255) 25%, rgb(218, 181, 255) 100%);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+    height: 2000px;
+}
+
+/*formatacao para imagens*/
+.formatImg{
+    width:15px; 
+    height:15px;
+}
+
+.formatImgHome{
+    width:auto; 
+    height:auto;
+    text-align: center;
+    position:fixed top; /*usar na foto do meu site*/
+}
+

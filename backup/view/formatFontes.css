@@ -1,0 +1,35 @@
+/*padrao pagina*/
+.formatTitle{
+    font-weight:bold;
+    font-size:45px;
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 0em 5px 10px rgb(39, 0, 76);
+}
+
+.titleForm{
+    font-weight:bold;
+    font-size:45px;
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 0em 5px 10px rgb(39, 0, 76);
+}
+
+/*formularios*/
+.formatForms{
+    font-weight:bold;
+    font-size:15px;
+    color: rgb(255, 255, 255) !important;
+}
+
+/*caixinha*/
+.formatCheck{
+    font-weight:bold;
+    font-size:15px;
+    color: rgb(255, 255, 255) !important;
+}
+
+.titleList{
+    font-weight:bold;
+    font-size:45px;
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 0em 5px 10px rgb(39, 0, 76);
+}

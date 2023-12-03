@@ -1,0 +1,16 @@
+input{
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(83, 0, 160) !important;
+    box-shadow: 0px 10px 20px rgb(65, 0, 127) !important;
+
+    /*bordas*/
+    border: 1px;        /*borda*/
+    border-color: rgb(31, 0, 60) !important;
+    border-radius: 5px; /*arredondamento*/
+}
+
+input::placeholder{
+  color: rgb(255, 255, 255) !important;
+}
+
+  

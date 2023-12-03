@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(151, 205, 255);
+    font-family:DejaVu Sans Mono, monospace;
+    font-style:normal;
+    color:rgb(0, 105, 153);
+}
+
+input{
+   /*background-color: rgb(128, 113, 71);*/
+    font-family:Trebuchet;
+    color: rgb(0, 105, 153);
+}

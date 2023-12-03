@@ -1,0 +1,47 @@
+.formatTable{
+    background: transparent;
+    box-shadow: 0px 10px 60px rgb(0, 0, 0);
+}
+
+.topLINE{
+    /*textos*/
+    text-align: center;
+    
+    /*cor*/
+    background: rgb(68, 19, 114) !important;
+    color:rgb(255, 255, 255) !important;
+
+    /*tamanho*/
+    width: 6.3%;         /*largura*/
+    padding: 8px;        /*altura*/
+}
+
+.downLINE{
+    /*textos*/
+    text-align: center;
+    font-weight: bold;
+    
+    /*tamanho*/
+    width: 3%;         /*largura*/
+    padding: 8px;        /*altura*/
+}
+
+.formatList{
+    /*textos*/
+    text-align: center;
+    font-weight: bold;
+
+    /*cor*/
+    background: rgb(101, 0, 196);
+    color: rgb(255, 255, 255);
+
+    /*borda*/
+    border-width: 10%;
+    border-top: 5%;
+    border-style:solid;
+    border-color: rgb(68, 19, 114);
+
+    /*tamanho*/
+    width: 3%;         /*largura*/
+    padding: 7px;        /*altura*/
+}
